@@ -1,0 +1,10 @@
+# ninja log v5
+13	618	7338602473961473	CMakeFiles/simple_example.dir/propietario.cpp.obj	cd42db09c3c48c3c
+0	650	7338602474274527	CMakeFiles/simple_example.dir/equipo.cpp.obj	e543e7429a06fc4c
+4	1018	7338602477981608	CMakeFiles/simple_example.dir/main.cpp.obj	ae43032ce8bf7198
+9	1304	7338602480862612	CMakeFiles/simple_example.dir/gestorEquipos.cpp.obj	8764d4b8eb115ee3
+1305	1464	7338602482372858	simple_example.exe	e15d7cb0c459c7cd
+4	674	7338605691774791	CMakeFiles/simple_example.dir/main.cpp.obj	ae43032ce8bf7198
+675	874	7338605693693774	simple_example.exe	e15d7cb0c459c7cd
+3	673	7338606906121442	CMakeFiles/simple_example.dir/main.cpp.obj	ae43032ce8bf7198
+674	834	7338606907681209	simple_example.exe	e15d7cb0c459c7cd
